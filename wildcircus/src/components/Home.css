@@ -44,3 +44,8 @@
 .buttonHome:hover {
   opacity: 0.5;
 }
+
+.link {
+  width: 100%;
+  text-align: center;
+}
