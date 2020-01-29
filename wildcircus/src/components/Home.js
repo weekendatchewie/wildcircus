@@ -10,7 +10,7 @@ class Home extends React.Component {
           <img className="imgHome" src="https://images.pexels.com/photos/2337777/pexels-photo-2337777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="image circus" />
           <h1 className="titleHome">Welcome to The Wild Circus</h1>
         </div>
-        <button>Come & See</button>
+        <button className="buttonHome">Come & See</button>
       </div>
     )
   }
