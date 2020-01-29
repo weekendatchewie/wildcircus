@@ -1,0 +1,23 @@
+.cardHome {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+  border: 5px solid white;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  background-color: #2980b9;
+}
+
+.imgHome {
+  width: 100%;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.titleHome {
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 2%;
+    color: whitesmoke;
+}
