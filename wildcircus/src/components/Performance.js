@@ -1,13 +1,15 @@
 import React from 'react';
 import './Performance.css';
 import About from "./About";
+import Date from './Date';
 
 class Performance extends React.Component {
   render(){
     return(
       <>
       <div className="performance">
-        <h1 className="titlePerformance">Performances</h1>
+        
+
         <iframe className="videoPerformance" width="940" height="500" src="https://www.youtube.com/embed/x-1-gLv3aWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
           <div className="blocPerformance">
@@ -27,6 +29,7 @@ class Performance extends React.Component {
       </div>
     
       <About/>
+      <Date/>
       </>
     )
   }
