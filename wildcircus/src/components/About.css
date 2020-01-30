@@ -1,0 +1,15 @@
+.about {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.sliderImage {
+  width: 70%;
+  max-height: 35vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blocAbout {
+  text-align: justify;
+}

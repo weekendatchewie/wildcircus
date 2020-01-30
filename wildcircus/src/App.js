@@ -10,6 +10,8 @@ function App() {
     <Switch>
       <Route exact path="/" component={Home}/>
       <Route exact path="/wildcircus" component={Performance}/>
+  
+      
     </Switch>
      
     </div>
