@@ -1,7 +1,7 @@
 INSERT INTO `show` (
   city,
   date_show,
-  number_of_place
+  number_place
 ) VALUES (
   "Reims",
   "02/02/2019",
