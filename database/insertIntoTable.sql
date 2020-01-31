@@ -1,6 +1,6 @@
-INSERT INTO `show` (
+INSERT INTO `date_show` (
   city,
-  date_show,
+  date_of_show,
   number_place
 ) VALUES (
   "Reims",
